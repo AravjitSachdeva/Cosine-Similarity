@@ -1,6 +1,5 @@
-# Programming Assignment 1
+
 # Aravjit Sachdeva
-# UTA ID - 1001383194
 
 import os
 import sys
